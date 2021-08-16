@@ -1,1 +1,1 @@
-# coin-collector-game
+# coin collector game
